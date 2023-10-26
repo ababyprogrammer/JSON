@@ -1,0 +1,16 @@
+{
+    "name": "Harry",
+    "lastname": "Doe",
+    "purchases": [
+        {
+            "product": "Websites",
+            "quantity": 1,
+            "price": 50
+        },
+        {
+            "product": "blog",
+            "quantity": 1,
+            "price": 50
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Raphael",
+    "age": "14",
+    "address": {
+        "street": "123 Main Street",
+        "city": "New York",
+        "Country": "USA",
+        "zip": "90210"
+    }
+}
